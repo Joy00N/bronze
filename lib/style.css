@@ -1,0 +1,22 @@
+nav {
+    border: solid;
+    border-width: 1px;
+}
+
+.topnav {
+    float: left;
+}
+
+.topnav-right {
+    float: right;
+}
+
+.sidenav {
+    position: absolute;
+    top: 30;
+    left: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    border: solid;
+    border-width: 1px;
+  }
