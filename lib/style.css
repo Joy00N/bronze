@@ -1,9 +1,10 @@
 nav {
     border: solid;
     border-width: 1px;
+    display: block;
 }
 
-.topnav {
+.topnav-left {
     float: left;
 }
 
@@ -13,10 +14,9 @@ nav {
 
 .sidenav {
     position: absolute;
-    top: 30;
-    left: 25px;
+    top: 70px;
     font-size: 36px;
-    margin-left: 50px;
     border: solid;
     border-width: 1px;
+    margin-bottom: 20px;
   }
